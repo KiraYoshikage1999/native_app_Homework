@@ -12,7 +12,7 @@ import UserProfileScreen from './src/screens/UserProfileScreen';
 import SearchScreen from './src/screens/SearchScreen';
 import PickerScreen from './src/screens/PickerScreen';
 import PostDetailsScreen from './src/screens/PostDetailsScreen';
-// import TaskItem from './components/TaskItem';
+import TaskItem from './components/TaskItem';
 
 
 // /*
